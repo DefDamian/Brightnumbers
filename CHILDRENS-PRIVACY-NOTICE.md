@@ -20,7 +20,11 @@ Specifically, the App does not collect:
 
 ## No parental consent is required
 
-Because no personal information is collected, verifiable parental consent under COPPA is not required. We still place a "grown-ups only" gate in front of Settings, Progress and these legal documents so that children do not change settings or reach contact details by accident, in line with Apple's Kids Category guidelines.
+Because no personal information is collected, verifiable parental consent under COPPA is not required. We still place a parent code (or Face ID / Touch ID) in front of Settings, Progress, Homework and these legal documents so that children do not change settings, scan photos, or reach contact details, in line with Apple's Kids Category guidelines.
+
+## Homework scanning
+
+The worksheet-scanning feature is behind the grown-up gate and is meant for a parent or guardian to operate. Images are processed on the device by Apple's text recognition and discarded; nothing is stored or transmitted, and the child is not asked to take photos.
 
 ## No advertising, purchases, or outside links
 

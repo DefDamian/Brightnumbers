@@ -1,7 +1,7 @@
 # Terms of Use (End User License Agreement)
 
 **Effective date:** October 30, 2026
-**Version:** 4
+**Version:** 5
 
 PLEASE READ THESE TERMS CAREFULLY. THEY CONTAIN A BINDING ARBITRATION CLAUSE AND A CLASS ACTION WAIVER (SECTION 13) THAT AFFECT YOUR LEGAL RIGHTS.
 

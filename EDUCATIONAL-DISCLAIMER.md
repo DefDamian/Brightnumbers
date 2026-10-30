@@ -14,6 +14,10 @@ Bright Numbers is a practice game intended to make elementary math practice calm
 
 Lessons and problems are modeled on common U.S. elementary math expectations for kindergarten through fifth grade, but the App is not affiliated with, endorsed by, aligned to, or reviewed by any state standards body, curriculum publisher, school, district, or government agency. Grade bands in the App are approximate and provided only as a guide. We make no representation that the content is accurate, complete, current, or suitable for any particular child, and we do not guarantee any learning outcome, improvement, or result.
 
+## Homework scanning and "Show me how"
+
+Text recognition can misread a worksheet (for example, reading a 1 as a 7 or missing a problem). A grown-up must check every problem before a child practices. The "Show me how" explanations use fixed, rule-based steps for whole-number addition, subtraction, multiplication and division. They are one correct way to solve the problem, not necessarily the method a particular teacher expects, and they are not a substitute for the teacher's instructions.
+
 ## Progress data
 
 Stars and accuracy shown in the App reflect practice inside the App only. They are not standardized scores and should never be the sole basis for any educational, placement, or clinical decision. Decisions about a child's education should be made by the child's family, teachers, and qualified professionals.

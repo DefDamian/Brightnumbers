@@ -2,7 +2,7 @@
 
 ## Third-party software
 
-Bright Numbers contains **no third-party software, libraries or SDKs**. It is built entirely with Apple's public frameworks (SwiftUI, AVFoundation, UIKit), which are licensed to developers under the Apple Developer Program License Agreement.
+Bright Numbers contains **no third-party software, libraries or SDKs**. It is built entirely with Apple's public frameworks (SwiftUI, UIKit, AVFoundation, Vision, VisionKit, PhotosUI, LocalAuthentication, CryptoKit, Security), which are licensed to developers under the Apple Developer Program License Agreement.
 
 ## Icons and fonts
 

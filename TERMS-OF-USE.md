@@ -43,7 +43,7 @@ Stars, stickers, packs, chests, quests and scores are virtual features of the Ap
 
 ## 6. Privacy
 
-Our Privacy Policy and Children's Privacy Notice, available in the App and at https://github.com/DefDamian/BrightNumbers/blob/main/Legal/PRIVACY-POLICY.md, describe how the App handles information. They are part of these Terms. In short: the App does not collect, transmit or share any personal information.
+Our Privacy Policy and Children's Privacy Notice, available in the App and at https://github.com/DefDamian/Brightnumbers/blob/main/PRIVACY-POLICY.md, describe how the App handles information. They are part of these Terms. In short: the App does not collect, transmit or share any personal information.
 
 ## 7. Educational and health notices
 

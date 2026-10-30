@@ -26,9 +26,9 @@ Because no personal information is collected, verifiable parental consent under 
 
 The App contains no advertising of any kind, no in-app purchases, no social features, no chat, no user-generated content, and no links out of the App in any area a child can reach.
 
-## Progress data
+## Progress data and iCloud
 
-Practice results (stars, questions answered, accuracy) are stored only on the device and shown only to whoever holds the device. They are not linked to any identity, and we never see them.
+Practice results and rewards (stars, questions answered, accuracy, stickers, quests, streaks) are stored on the device and shown only to whoever holds the device. They are not linked to any identity, and we never see them. If the grown-up leaves "Sync progress with iCloud" on, a copy of these same game counts is kept in the **parent's or guardian's own iCloud account** by Apple, so the child can continue on another family device. This copy contains no personal information, is not accessible to us, and can be turned off or erased at any time from the App. Because the iCloud account belongs to the adult, no information is collected from the child.
 
 ## Your rights as a parent
 

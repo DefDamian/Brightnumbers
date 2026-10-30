@@ -7,7 +7,7 @@
 
 ## 1. Summary
 
-Bright Numbers does not collect, store on our servers, transmit, sell, rent or share any personal information from anyone, adult or child. There are no user accounts, no advertising, no analytics, no tracking, no in-app purchases, no third-party software and no internet connection required. Everything the App does happens on your device and stays there.
+Bright Numbers does not collect, store on our servers, transmit, sell, rent or share any personal information from anyone, adult or child. There are no user accounts, no advertising, no analytics, no tracking, no in-app purchases and no third-party software. The App works fully offline. The only thing that can leave your device is your child's game progress, and only to **your own iCloud account** through Apple's iCloud service, if you leave "Sync progress with iCloud" turned on. We cannot see, access or retrieve that data.
 
 ## 2. Information stored on your device only
 
@@ -33,7 +33,18 @@ The App does not collect, request or access:
 - information about disabilities, diagnoses, IEP or 504 status, grades, school, or any sensitive category of data;
 - usage analytics, crash reports, or diagnostics beyond what Apple itself collects under your iOS settings and Apple's privacy policy.
 
-The App does not use the camera, microphone, Bluetooth, local network, push notifications, or background activity. It makes no network requests.
+The App does not use the camera, microphone, Bluetooth, local network, push notifications, or background activity. It makes no network requests of its own; the only network activity is Apple's iCloud service syncing the progress data described in Section 3A, when that setting is on.
+
+## 3A. iCloud sync (optional)
+
+If "Sync progress with iCloud" is on (the default) and the device is signed into iCloud, the App stores a copy of the **progress and rewards data listed in Section 2** (not the nickname, not settings) in the iCloud Key-Value storage belonging to the signed-in Apple Account, so that stars, stickers, quests and streaks follow the child between the family's iPhones and iPads. This data:
+
+- is transmitted only between your device and Apple's iCloud servers, encrypted in transit and at rest by Apple;
+- is stored under your Apple Account and governed by Apple's iCloud terms and privacy policy;
+- contains no name, no identifier and no personal information: only game counts such as "stars: 14" and "stickers: panda ×2";
+- is never sent to us, and we have no technical means to read it.
+
+Turn it off at any time in Grown-ups → "Sync progress with iCloud". Resetting progress in the App also clears the iCloud copy; a second device that still has progress will upload it again unless you reset there too, since the reset is applied device by device. If the device is not signed into iCloud, the App behaves exactly as if the setting were off.
 
 ## 4. Text to speech
 
@@ -55,17 +66,18 @@ Depending on where you live, you may have rights to access, correct, delete, por
 
 ## 8. Data retention and security
 
-Data stored by the App remains on your device until you delete it (Section 9) or delete the App. We retain nothing because we receive nothing. The App's local data is protected by the device's built-in encryption and passcode protections provided by iOS. No method of storage is perfectly secure, and we cannot guarantee the security of your device itself.
+Data stored by the App remains on your device until you delete it (Section 9) or delete the App. A copy of progress data may remain in your iCloud account until you reset progress in the App or remove the App's data in iPhone Settings → [your name] → iCloud → Manage Storage. We retain nothing because we receive nothing. The App's local data is protected by the device's built-in encryption and passcode protections provided by iOS. No method of storage is perfectly secure, and we cannot guarantee the security of your device itself.
 
 ## 9. Deleting data
 
 - **Erase progress:** Progress screen (behind the grown-up gate) → "Reset all progress".
 - **Erase settings and the nickname:** Settings (behind the grown-up gate) → "Reset settings to defaults", then clear the name field.
 - **Erase everything:** delete the App. iOS removes all of its data with it.
+- **Erase the iCloud copy:** tap "Reset all progress" while iCloud sync is on, or turn sync off and delete the App's iCloud data from iPhone Settings.
 
 ## 10. Third parties and links
 
-We do not share data with any third party because we have none to share. The App contains no third-party SDKs, advertising networks, analytics providers, social media plug-ins, or links to external websites in areas accessible to children. The Apple App Store itself, and Apple's operating system, are governed by Apple's privacy policy.
+We do not share data with any third party because we have none to share. The App contains no third-party SDKs, advertising networks, analytics providers, social media plug-ins, or links to external websites in areas accessible to children. Apple Inc. provides the operating system, the App Store and the optional iCloud sync; Apple's handling of that data is governed by Apple's privacy policy, not ours.
 
 ## 11. Changes to this Policy
 

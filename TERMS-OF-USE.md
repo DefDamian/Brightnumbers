@@ -1,7 +1,7 @@
 # Terms of Use (End User License Agreement)
 
 **Effective date:** October 30, 2026
-**Version:** 3
+**Version:** 4
 
 PLEASE READ THESE TERMS CAREFULLY. THEY CONTAIN A BINDING ARBITRATION CLAUSE AND A CLASS ACTION WAIVER (SECTION 13) THAT AFFECT YOUR LEGAL RIGHTS.
 
@@ -39,7 +39,7 @@ We may release updates, patches or new versions and may add, change or remove fe
 
 ## 5A. In-app rewards
 
-Stars, stickers, packs, chests, quests and scores are virtual features of the App with no monetary value. They are not property, cannot be purchased, redeemed, sold, traded or transferred, may be changed, reset or removed in any update, and are stored only on your device. We are not responsible for loss of rewards for any reason, including deleting the App or resetting progress.
+Stars, stickers, packs, chests, quests and scores are virtual features of the App with no monetary value. They are not property, cannot be purchased, redeemed, sold, traded or transferred, may be changed, reset or removed in any update, and are stored on your device and, if iCloud sync is on, in your own iCloud account. We are not responsible for loss of rewards for any reason, including deleting the App or resetting progress.
 
 ## 6. Privacy
 
